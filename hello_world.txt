@@ -1,0 +1,10 @@
+#git_test
+Este mi primer repositorio de GitHub
+En el bootcamp The Odin Project TOP
+___________________________________
+Este repositorio contiene:
+1) Hello World.txt
+2) readme.md
+_________________________________
+Realizado con fecha Domingo 27 de Agosto de 2023
+
