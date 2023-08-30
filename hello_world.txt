@@ -7,4 +7,10 @@ Este repositorio contiene:
 2) readme.md
 _________________________________
 Realizado con fecha Domingo 27 de Agosto de 2023
+_________________________________
+Modificacion de RADME.md con vsc y eliminacion del readme en 
+en minusculas de la carpeta git_test
+_________________________________ 
+Realizado con fecha Martes 28 de Agosto de 2023
+
 
